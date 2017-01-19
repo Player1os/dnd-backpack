@@ -1,3 +1,7 @@
+[![Stories in Backlog](https://badge.waffle.io/orcist/backpack.svg?label=ready&title=Backlog)](http://waffle.io/orcist/backpack)
+[![Stories in In progress](https://badge.waffle.io/orcist/backpack.svg?label=ready&title=In%20Progress)](http://waffle.io/orcist/backpack)
+[![Stories in Done](https://badge.waffle.io/orcist/backpack.svg?label=ready&title=Done)](http://waffle.io/orcist/backpack)
+
 # Backpack
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
